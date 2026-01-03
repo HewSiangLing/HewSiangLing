@@ -1,6 +1,6 @@
 Hi! My name is Hew Siang Ling<img src = https://github.com/HewSiangLing/Portfolio/blob/main/hornet.gif width="50" />
 =
-I'm a Graphics And Multimedia Software in UTM 
+I'm a Graphics And Multimedia Software Student in UTM 
 -
 A person who enjoys games, music, philosophy, art, code, and more. I am interested in works born from the fusion of art or philosophy with games and technology. I learn and practice coding, focusing on building small projects, prototypes, and interactive experiences, which helps me understand technical architecture and design thinking. I value the process of iteration, problem-solving, and continuous learning. I am dedicated to developing a profound and highly personal work of my own.
 
