@@ -6,7 +6,7 @@ A person who enjoys games, music, philosophy, art, code, and more.I am intereste
 
 * 💻  I'm currently learning **coding**
 * 🎮  I'm currently working on my own **Indie Game**
-* 📬  You can contact me at [lingling1035@gmail.com](lingling1035@gmail.com)
+* 📬  You can contact me at **lingling1035@gmail.com**
 
 
 # 💻 Tech Stack:
