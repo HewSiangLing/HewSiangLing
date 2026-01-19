@@ -2,7 +2,7 @@ Hi! My name is Hew Siang Ling <img src="hornet.gif" width="75"/>
 = 
 I'm a Graphics And Multimedia Software Student in UTM 
 -
-A person who enjoys games, music, philosophy, art, code, and more. I am interested in works born from the fusion of art or philosophy with games and technology. I learn and practice coding, focusing on building small projects, prototypes, and interactive experiences, which helps me understand technical architecture and design thinking. I value the process of iteration, problem-solving, and continuous learning. I am dedicated to developing a profound and highly personal work of my own.
+A person who enjoys games, music, philosophy, art, code, and more.I am interested in works that combine art or philosophy with games and technology.I study and implement the program, with a focus on small-scale project making, graphic design, and interactive experiences, which helps me understand technical architecture and design thinking. I value iteration, problem solving, and the process of continuous learning. I am committed to developing my own deep and personal work.
 
 * 💻  I'm currently learning **coding**
 * 🎮  I'm currently working on my own **Indie Game**
